@@ -114,7 +114,7 @@ p {
     transform: translateY(-600px) scale(1.5);
     opacity: 0;
   }
-.next-button {
+.next-button2 {
   display: inline-block;
   margin-top: 40px;
   padding: 15px 30px;
@@ -126,7 +126,7 @@ p {
   transition: background 0.3s;
 }
 
-.next-button:hover {
+.next-button2:hover {
   background-color: #c0392b;
 }
 }
