@@ -8,7 +8,7 @@ body {
   background: linear-gradient(to top right, #ffdee9, #b5fffc);
   font-family: 'Courier New', cursive;
   color: #c0392b;
-  height: 100vh;
+  height: 200vh;
   overflow: hidden;
   position: relative;
 }
