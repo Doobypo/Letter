@@ -64,8 +64,23 @@ p {
   font-size: 1.2em;
   transition: background 0.3s;
 }
+.next-button {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 15px 30px;
+  background-color: #e74c3c;
+  color: white;
+  border-radius: 25px;
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: background 0.3s;
+}
 
-.next-button:hover {
+.next-button2:hover {
+  background-color: #c0392b;
+}
+
+.next-button2:hover {
   background-color: #c0392b;
 }
 
@@ -114,20 +129,5 @@ p {
     transform: translateY(-600px) scale(1.5);
     opacity: 0;
   }
-.next-button2 {
-  display: inline-block;
-  margin-top: 40px;
-  padding: 15px 30px;
-  background-color: #e74c3c;
-  color: white;
-  border-radius: 25px;
-  text-decoration: none;
-  font-size: 1.2em;
-  transition: background 0.3s;
-}
-
-.next-button2:hover {
-  background-color: #c0392b;
-}
 }
 
